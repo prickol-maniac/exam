@@ -8,11 +8,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("images/add.png")]
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("images/delete.png")]
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("images/edit.png")]
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("images/find.png")]
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("images/save.png")]
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("images/undo.png")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("titleemployee.context.tt")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("titleemployee.mdf")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("titleemployee.tt")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("titleemployee_log.ldf")]
 
 
